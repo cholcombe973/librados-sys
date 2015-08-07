@@ -2,6 +2,8 @@
 name = "librados-sys"
 version = "0.1.0"
 authors = ["Chris Holcombe <xfactor973@gmail.com>"]
+description = "Rust bindings for the Ceph Rados API"
+license = "MIT"
 
 [dependencies]
 libc = "*"
